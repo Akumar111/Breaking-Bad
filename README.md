@@ -2,6 +2,8 @@ React project that uses the [breaking bad api](https://breakingbadapi.com/docume
 
 # Breaking Bad
 
+[View this project](https://akumar111.github.io/Breaking-Bad/)
+
 ```
 # Install dependencies
 npm install
